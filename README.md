@@ -4,3 +4,5 @@ This repository contains all the python programming assignments done during the 
 Statistics Assignments Link: https://github.com/Shahequa/Statistics_for_Data_Science
 
 Feature Engineering Assignmnets Link: https://github.com/Shahequa/Feature_Engineering_DS_Masters
+
+Machine Learning Assignments Link: https://github.com/Shahequa/Machine_Learning_DS_Masters
